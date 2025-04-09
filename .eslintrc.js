@@ -36,4 +36,10 @@ module.exports = {
       },
     },
   ],
+  ignorePatterns: [
+    'node_modules/',
+    'dist/',
+    'build/',
+    '*.min.js', // Игнорировать минифицированные файлы
+  ],
 };

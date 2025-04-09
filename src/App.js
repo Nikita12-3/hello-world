@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Linter1.
+          Edit <code>src/App.js</code> Linter2.
         </p>
         <a
           className="App-link"
